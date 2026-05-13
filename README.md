@@ -80,6 +80,10 @@ The dataset contains customer information including:
 
 ---
 
+![Churn Distribution](images/churn_dist.png) 
+
+---
+
 # 🏗️ Project Workflow
 
 ```text
@@ -210,6 +214,10 @@ The models are evaluated using:
 
 ---
 
+![Confusion Matrix](images/confusion_matrix.PNG) 
+
+---
+
 # 💾 Model Export
 
 The trained pipeline is exported using:
@@ -271,6 +279,10 @@ Output:
 ```text
 Predicted Churn: 1
 ```
+
+---
+
+![Churn Prediction](images/churn_pred.PNG) 
 
 ---
 
