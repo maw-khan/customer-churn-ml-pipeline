@@ -43,7 +43,7 @@ The main objectives of this project are:
 
 ---
 
-# 🧠 Technologies Used
+# Technologies Used
 
 | Technology | Purpose |
 |---|---|
@@ -84,7 +84,7 @@ The dataset contains customer information including:
 
 ---
 
-# 🏗️ Project Workflow
+# Project Workflow
 
 ```text
 Raw Customer Data
@@ -168,7 +168,7 @@ The preprocessing and model training are combined into a single reusable pipelin
 
 ---
 
-# 🤖 Models Used
+# Models Used
 
 ## 1. Logistic Regression
 
@@ -266,7 +266,7 @@ customer-churn-ml-pipeline/
 
 ---
 
-# 🧪 Sample Prediction
+# Sample Prediction
 
 Example:
 
